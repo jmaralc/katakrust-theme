@@ -1,1 +1,63 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="#f90" viewBox="0 0 96 96"><path stroke-width="14" d="M14 99 46 7h4l32 92"/><path stroke-width="9" d="M-3 82c43-26 59-26 102 0"/><path stroke-linecap="round" stroke-width="1.5" d="M94 72v7m-5-9.8v7m-5-9.8v7.1M79 64v7M63 57.7v7m-5-8.2v7m-5-7.8v7m-5-7.2v7m-5-6.7v7m-5-6.3v7m-5-5.8v7M17 64v7m-5-4.6v7m-5-4.2v7M2 72v7"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg1"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <rect
+       x="103.19208"
+       y="261.27356"
+       width="297.50058"
+       height="274.44702"
+       id="rect1" />
+    <rect
+       x="103.19208"
+       y="261.27356"
+       width="297.50058"
+       height="274.44702"
+       id="rect2" />
+  </defs>
+  <g
+     id="layer1">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.21119483,0,0,0.21119483,-24.270816,-60.970413)"
+       id="text1"
+       style="font-size:192px;white-space:pre;shape-inside:url(#rect1);fill:#f74c00;stroke-width:1.00157"><tspan
+         x="103.19141"
+         y="436.44086"
+         id="tspan6"><tspan
+           style="font-family:Silom;-inkscape-font-specification:Silom"
+           id="tspan5">K</tspan></tspan></text>
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke-width:0.211527"
+       id="path1"
+       cx="5.4263983"
+       cy="6.8423495"
+       r="2.4343956" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path1"
+       id="use2-2"
+       transform="translate(-0.02182241,17.518105)" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.21119483,0,0,0.21119483,-18.474637,-60.970413)"
+       id="text2"
+       style="font-size:192px;white-space:pre;shape-inside:url(#rect2);fill:#f74c00;stroke-width:1.00157"><tspan
+         x="103.19141"
+         y="436.44086"
+         id="tspan8"><tspan
+           style="font-family:Silom;-inkscape-font-specification:Silom"
+           id="tspan7">K</tspan></tspan></text>
+  </g>
+</svg>
